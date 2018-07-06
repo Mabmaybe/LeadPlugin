@@ -1,0 +1,9 @@
+D:\Projects\CalculateOneLead1\CalculateOneLead1\bin\Debug\CalculateOneLead1.dll
+D:\Projects\CalculateOneLead1\CalculateOneLead1\bin\Debug\CalculateOneLead1.pdb
+D:\Projects\CalculateOneLead1\CalculateOneLead1\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\CalculateOneLead1\CalculateOneLead1\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\Projects\CalculateOneLead1\CalculateOneLead1\obj\Debug\CalculateOneLead1.csprojAssemblyReference.cache
+D:\Projects\CalculateOneLead1\CalculateOneLead1\obj\Debug\CalculateOneLead1.csproj.CoreCompileInputs.cache
+D:\Projects\CalculateOneLead1\CalculateOneLead1\obj\Debug\CalculateOneLead1.csproj.CopyComplete
+D:\Projects\CalculateOneLead1\CalculateOneLead1\obj\Debug\CalculateOneLead1.dll
+D:\Projects\CalculateOneLead1\CalculateOneLead1\obj\Debug\CalculateOneLead1.pdb
