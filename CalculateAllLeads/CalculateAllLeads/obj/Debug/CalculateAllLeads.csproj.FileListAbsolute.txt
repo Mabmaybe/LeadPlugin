@@ -1,0 +1,9 @@
+D:\Projects\CalculateAllLeads\CalculateAllLeads\obj\Debug\CalculateAllLeads.csprojAssemblyReference.cache
+D:\Projects\CalculateAllLeads\CalculateAllLeads\obj\Debug\CalculateAllLeads.csproj.CoreCompileInputs.cache
+D:\Projects\CalculateAllLeads\CalculateAllLeads\bin\Debug\CalculateAllLeads.dll
+D:\Projects\CalculateAllLeads\CalculateAllLeads\bin\Debug\CalculateAllLeads.pdb
+D:\Projects\CalculateAllLeads\CalculateAllLeads\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\CalculateAllLeads\CalculateAllLeads\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\Projects\CalculateAllLeads\CalculateAllLeads\obj\Debug\CalculateAllLeads.csproj.CopyComplete
+D:\Projects\CalculateAllLeads\CalculateAllLeads\obj\Debug\CalculateAllLeads.dll
+D:\Projects\CalculateAllLeads\CalculateAllLeads\obj\Debug\CalculateAllLeads.pdb
